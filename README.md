@@ -27,7 +27,7 @@ A Simple & User-Friendly Google Colab Notebook to Upload all your Files &amp; Fo
 <h4> 9.Run the Timeout Preventer after executing above Codes to prevent Google Colab from getting Timeout. (Optional)</h4>
 <img src="https://github.com/TheCaduceus/Google-Drive-to-MEGA/blob/main/Img/26.png">
 <h4> 10.Wait for the File or Folder to be uploaded and Enjoy!</h4>
-<h5> <b><i>❗NOTE: You can upload files of max 20GB/Day because of the restriction set by Mega.nz❗</i></b></h5>
+<h5> <b><i>❗NOTE: You can upload files of max 20GB/Day and upto 40GB/Day if you add your Phone Number in your MEGA ACCOUNT because of the restriction set by Mega.nz❗</i></b></h5>
 <h2>〽️Variables Used</h2>
 <h4> 1.SHARED DRIVE NAME: Replace with the Shared Drive name from which you need to upload File/Folder.</h4>
 <h4> 2.FILE OR FOLDER NAME: Replace with File or Folder name which needs to be uploaded.</h4>
