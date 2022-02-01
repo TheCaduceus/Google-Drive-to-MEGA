@@ -29,7 +29,7 @@ A Simple & User-Friendly Google Colab Notebook to Upload all your Files &amp; Fo
 <h4> 10.Wait for the File or Folder to be uploaded and Enjoy!</h4>
 <h5> <b><i>❗NOTE: You can upload files of max 20GB/Day and upto 40GB/Day if you add your Phone Number in your MEGA ACCOUNT because of the restriction set by Mega.nz❗</i></b></h5>
 <h2>〽️Variables Used</h2>
-<h4> 1.SHARED DRIVE NAME: Replace with the Shared Drive name from which you need to upload File/Folder.</h4>
+<h4> 1.`SHARED DRIVE NAME`: Replace with the Shared Drive name from which you need to upload File/Folder.</h4>
 <h4> 2.FILE OR FOLDER NAME: Replace with File or Folder name which needs to be uploaded.</h4>
 <h4> 3.USERNAME: Enter your Email ID registered with MEGA CLOUD.</h4>
 <h4> 4.PASSWORD: Enter Password you made for MEGA ACCOUNT.</h4>
