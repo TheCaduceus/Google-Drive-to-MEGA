@@ -1,1 +1,1 @@
-
+For making Comfortable for GitHub Page Environment: add (IMAGE_NAME?raw=true) or (https://thecaduceus.github.io/Google-Drive-to-MEGA/IMAGE NAME WITH FORMAT)
