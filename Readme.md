@@ -1,4 +1,4 @@
-# Google-Drive-to-MEGA</h1>
+# Google-Drive-to-MEGA
 A Simple & User-Friendly Google Colab Notebook to Upload all your Files &amp; Folder from Google Drive to Mega. With added protection of Timeout Preventer!
 
 ## 🆕What's New?🆕
@@ -10,22 +10,22 @@ A Simple & User-Friendly Google Colab Notebook to Upload all your Files &amp; Fo
 ## ⚙️ How to Use ? 
 <h4> 1.1 First Open the Code in Google Collab! <a href="https://colab.research.google.com/github/TheCaduceus/Google-Drive-to-MEGA/blob/main/Google_Drive_to_Mega_Transfer.ipynb">Open Code</a> </h4>
 <h4> 1.2 You can also check the Speed from which the Google will transfer your Data! (Optional)</h4>
-<img src="https://github.com/TheCaduceus/Google-Drive-to-MEGA/blob/main/Img/27.png">
+<img src="https://github.com/TheCaduceus/Google-Drive-to-MEGA/blob/main/Img/27.png?raw=true">
 <h4> 2.It is too Simple! Choose "Mount" from the Dropdown list in "Connect Google Account" Section and click on play button. </h4>
-<img src="https://github.com/TheCaduceus/Google-Drive-to-MEGA/blob/main/Img/20.png">
+<img src="https://github.com/TheCaduceus/Google-Drive-to-MEGA/blob/main/Img/20.png?raw=true">
 <h4> 3.Now! If you need to upload file/folder from My Drive then you need file name with format, So run the code as shown in the Image to get it and copy the file name with format but without (' '),Or you can trasfer File from Shared Drive also! So first you need the correct name of Shared Drive(Available in your Google Drive) for this Run the code as shown in the Image and copy it </h4>
-<img src="https://github.com/TheCaduceus/Google-Drive-to-MEGA/blob/main/Img/21.png">
+<img src="https://github.com/TheCaduceus/Google-Drive-to-MEGA/blob/main/Img/21.png?raw=true">
 <h4> 4.Also! If you are uploading files from My Drive then directly go to STEP 5,Now after copying Shared Drive Name replace "SHARED DRIVE NAME" in the given code as shown in the Image and run the Code to see the NAME of Files/Folder available in it and copy the File/Folder Name which you like to upload but without (' ').</h4>
-<img src="https://github.com/TheCaduceus/Google-Drive-to-MEGA/blob/main/Img/22.png">
+<img src="https://github.com/TheCaduceus/Google-Drive-to-MEGA/blob/main/Img/22.png?raw=true">
 <h4> 5.After copying File/Folder Name from My Drive or Shared Drive! Go to "PATH for File or Folder" section as shown in Image. Now If you are uploading File from My Drive then just replace "FILE AND FOLDER NAME" from Name you copied from above Step and for Shared Drive replace "SHARED DRIVE NAME" with Shared Drive name you copied from above step and also replace "FILE and FOLDER NAME" from File/Folder name you copied from above steps.</h4>
-<img src="https://github.com/TheCaduceus/Google-Drive-to-MEGA/blob/main/Img/23.png">
+<img src="https://github.com/TheCaduceus/Google-Drive-to-MEGA/blob/main/Img/23.png?raw=true">
 <h4> 6.Now after replacing certain Values in above step, now copy the complete PATH which you got like "/content/drive/My Drive/FILE OR FOLDER NAME" or "/gdrive/Shared drives/SHARED DRIVE NAME/FILE OR FOLDER NAME". </h4>
 <h4> 7.Using given "MEGA LOGIN" Section, login into your MEGA ACCOUNT using your EMAIL ID and PASSWORD and click "Play Code" Button.</h4>
-<img src="https://github.com/TheCaduceus/Google-Drive-to-MEGA/blob/main/Img/24.png">
+<img src="https://github.com/TheCaduceus/Google-Drive-to-MEGA/blob/main/Img/24.png?raw=true">
 <h4> 8.Finally! Paste the PATH which you copied from above step in the "TRANSFER NOW" section as shown in the Image and click "Play Code" Button.</h4>
-<img src="https://github.com/TheCaduceus/Google-Drive-to-MEGA/blob/main/Img/25.png">
+<img src="https://github.com/TheCaduceus/Google-Drive-to-MEGA/blob/main/Img/25.png?raw=true">
 <h4> 9.Run the Timeout Preventer after executing above Codes to prevent Google Colab from getting Timeout. (Optional)</h4>
-<img src="https://github.com/TheCaduceus/Google-Drive-to-MEGA/blob/main/Img/26.png">
+<img src="https://github.com/TheCaduceus/Google-Drive-to-MEGA/blob/main/Img/26.png?raw=true">
 <h4> 10.Wait for the File or Folder to be uploaded and Enjoy!</h4>
 <h5> <b><i>❗NOTE: You can upload files of max 20GB/Day and upto 40GB/Day if you add your Phone Number in your MEGA ACCOUNT because of the restriction set by Mega.nz❗</i></b></h5>
 <h2>〽️Variables Used</h2>
